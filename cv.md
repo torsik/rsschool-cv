@@ -1,9 +1,9 @@
-##Test CV
+## Test CV
 
 **CV Taras Orsik**
 
-##Current position: NOC Analyst
+## Current position: NOC Analyst
 
-###More details:
+### More details:
 
 [Linkedin Profile](https://www.linkedin.com/in/tarasorsik/) 
