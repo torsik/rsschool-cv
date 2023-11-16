@@ -1,1 +1,1 @@
-https://torsik.github.io/rsschool-cv/
+https://torsik.github.io/rsschool-cv/cv
